@@ -1,0 +1,2 @@
+C:/Users/alanv/OneDrive/Desktop/New folder (1)/Major_Project/FrontEnd/android/app/.cxx/Debug/131an3z2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/alanv/OneDrive/Desktop/New folder (1)/Major_Project/FrontEnd/android/app/.cxx/Debug/131an3z2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
