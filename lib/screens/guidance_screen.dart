@@ -28,11 +28,13 @@ class _GuidanceScreenState extends State<GuidanceScreen> {
 
   // API Endpoints
   final String startConversationApiUrl =
-      'http://192.168.1.6:8000/start-conversation';
-  final String answerQuestionApiUrl = 'http://192.168.1.6:8000/answer-question';
+      'https://major-project-6jau.onrender.com/start-conversation';
+  final String answerQuestionApiUrl =
+      'https://major-project-6jau.onrender.com/answer-question';
   final String generateResponseApiUrl =
-      'http://192.168.1.6:8000/generate-response';
-  final String followUpApiUrl = 'http://192.168.1.6:8000/follow-up';
+      'https://major-project-6jau.onrender.com/generate-response';
+  final String followUpApiUrl =
+      'https://major-project-6jau.onrender.com/follow-up';
 
   Future<void> _sendMessage(String message) async {
     setState(() {
